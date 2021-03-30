@@ -1,5 +1,7 @@
 ## Research on correlation between the average temperature in Italy and number of new COVID-19 cases.
 
+![](mask.jpg "Mask")
+
 Included files: 
 * Comparison of daily COVID cases 2002-2021 vs temperature in Italy.ipynb 
     * Working ipython notebook to replicate the findings and data, 
@@ -12,6 +14,7 @@ Included files:
 * Plotting Average Temperature in Italy Against the Number of Daily COVID.pdf
     * Paper detailing the findings
     
+
 Package information:
 * numpy - 1.19.2
 * pandas - 1.2.3
